@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\home\\department.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\home\\department.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\attributes\\futuredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\attributes\\futuredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\medicalrecords\\dcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\medicalrecords\\dcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\medicalrecords\\dupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\medicalrecords\\dupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\wwwroot\\assets\\vendor\\aos\\aos.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\wwwroot\\assets\\vendor\\aos\\aos.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\role\\addroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\role\\addroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\medicalrecords\\dindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\medicalrecords\\dindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\viewmodels\\medicalrecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\viewmodels\\medicalrecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\servieces\\interfaces\\imedicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\servieces\\interfaces\\imedicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\servieces\\implementations\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\servieces\\implementations\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\medicalrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\medicalrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\medicalrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\medicalrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\medicalrecords\\aindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\medicalrecords\\aindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\medicalrecords\\acreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\medicalrecords\\acreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\nurses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\nurses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\nurses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\nurses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\doctors\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\doctors\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\medicalrecords\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\medicalrecords\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\servieces\\implementations\\doctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\servieces\\implementations\\doctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\viewmodels\\doctorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\viewmodels\\doctorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\migrations\\20241002130552_addnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\migrations\\20241002130552_addnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\migrations\\20241003150924_setdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\migrations\\20241003150924_setdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\migrations\\20241005230701_addadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\migrations\\20241005230701_addadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\models\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\models\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\controllers\\medicalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\controllers\\medicalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|c:\\users\\alrwad\\videos\\finalproject\\hospital_management _system\\hospital_management _system\\controllers\\nursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52622237-EEA5-433B-BAD5-56239B678280}|Hospital_Management _System\\Hospital_Management _System.csproj|solutionrelative:hospital_management _system\\controllers\\nursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 118,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Home\\Department.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\Home\\Department.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Home\\Department.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\Home\\Department.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T12:16:23.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Program.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Program.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:02:58.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\GlobalUsing.cs",
+              "RelativeToolTip": "Hospital_Management _System\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:59:18.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\Home\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\Home\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T10:54:09.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FutureDate.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Attributes\\FutureDate.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Attributes\\FutureDate.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Attributes\\FutureDate.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Attributes\\FutureDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:16:14.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\DCreate.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\MedicalRecords\\DCreate.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\DCreate.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\MedicalRecords\\DCreate.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAEIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T10:03:58.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\DUpdate.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\MedicalRecords\\DUpdate.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\DUpdate.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\MedicalRecords\\DUpdate.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAABIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T09:57:00.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "aos.js.map",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+              "RelativeToolTip": "Hospital_Management _System\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAD3KAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T09:53:21.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "addRoles.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Role\\addRoles.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\Role\\addRoles.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Role\\addRoles.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\Role\\addRoles.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwFAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T09:53:19.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\DIndex.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\MedicalRecords\\DIndex.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\DIndex.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\MedicalRecords\\DIndex.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwGEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T08:26:23.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicalRecordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\ViewModels\\MedicalRecordViewModel.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\ViewModels\\MedicalRecordViewModel.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\ViewModels\\MedicalRecordViewModel.cs",
+              "RelativeToolTip": "Hospital_Management _System\\ViewModels\\MedicalRecordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:59:00.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:14:48.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMedicalRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Servieces\\Interfaces\\IMedicalRecordService.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Servieces\\Interfaces\\IMedicalRecordService.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Servieces\\Interfaces\\IMedicalRecordService.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Servieces\\Interfaces\\IMedicalRecordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:51:04.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicalRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Servieces\\Implementations\\MedicalRecordService.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Servieces\\Implementations\\MedicalRecordService.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Servieces\\Implementations\\MedicalRecordService.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Servieces\\Implementations\\MedicalRecordService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwJsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:50:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout - Copy.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Shared\\_Layout - Copy.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\Shared\\_Layout - Copy.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Shared\\_Layout - Copy.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\Shared\\_Layout - Copy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T07:13:08.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\MedicalRecords\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\Create.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\MedicalRecords\\Create.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAEoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:54:54.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\MedicalRecords\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\Index.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\MedicalRecords\\Index.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:43:23.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\AIndex.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\MedicalRecords\\AIndex.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\AIndex.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\MedicalRecords\\AIndex.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAGgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:42:39.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ACreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\ACreate.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\MedicalRecords\\ACreate.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\ACreate.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\MedicalRecords\\ACreate.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAFIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:39:20.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Nurses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\Nurses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Nurses\\Index.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\Nurses\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:09:40.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Nurses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\Nurses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Nurses\\Create.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\Nurses\\Create.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:09:02.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Doctors\\Update.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\Doctors\\Update.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Doctors\\Update.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\Doctors\\Update.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T05:47:47.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\Update.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\MedicalRecords\\Update.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\MedicalRecords\\Update.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\MedicalRecords\\Update.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T05:46:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAkwHQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T05:46:10.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Views\\Doctors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Views\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "Hospital_Management _System\\Views\\Doctors\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T05:43:54.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorServices.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Servieces\\Implementations\\DoctorServices.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Servieces\\Implementations\\DoctorServices.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Servieces\\Implementations\\DoctorServices.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Servieces\\Implementations\\DoctorServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:42:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DoctorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\ViewModels\\DoctorViewModel.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\ViewModels\\DoctorViewModel.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\ViewModels\\DoctorViewModel.cs",
+              "RelativeToolTip": "Hospital_Management _System\\ViewModels\\DoctorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:34:06.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241002130552_addNurse.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Migrations\\20241002130552_addNurse.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Migrations\\20241002130552_addNurse.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Migrations\\20241002130552_addNurse.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Migrations\\20241002130552_addNurse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:11:59.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241003150924_SetDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Migrations\\20241003150924_SetDoctor.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Migrations\\20241003150924_SetDoctor.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Migrations\\20241003150924_SetDoctor.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Migrations\\20241003150924_SetDoctor.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:11:20.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241005230701_AddAdmins.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Migrations\\20241005230701_AddAdmins.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Migrations\\20241005230701_AddAdmins.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Migrations\\20241005230701_AddAdmins.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Migrations\\20241005230701_AddAdmins.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:10:37.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\Nurse.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Models\\Nurse.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\Nurse.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Models\\Nurse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:09:34.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\Notification.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:09:31.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Models\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Models\\MedicalRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:09:28.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\Doctor.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:09:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Models\\Admin.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:09:00.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:59:56.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MedicalRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Controllers\\MedicalRecordsController.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Controllers\\MedicalRecordsController.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Controllers\\MedicalRecordsController.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Controllers\\MedicalRecordsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:53:04.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NursesController.cs",
+              "DocumentMoniker": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Controllers\\NursesController.cs",
+              "RelativeDocumentMoniker": "Hospital_Management _System\\Controllers\\NursesController.cs",
+              "ToolTip": "C:\\Users\\alrwad\\Videos\\FinalProject\\Hospital_Management _System\\Hospital_Management _System\\Controllers\\NursesController.cs",
+              "RelativeToolTip": "Hospital_Management _System\\Controllers\\NursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:52:34.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
